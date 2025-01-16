@@ -1,7 +1,10 @@
+![image](https://github.com/user-attachments/assets/ab82a21b-294c-4e57-9e86-e06194f54d34)
+
 # POM-2 HiDPI theme
 
 Based off of the POM-2 computer from Warframe 1999.
 This includes only the window decorations (i.e., title bar and buttons).
+[Demonstration video](https://www.youtube.com/watch?v=v4x_xn8tfc0)
 
 ## How do I use this?
 
