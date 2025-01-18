@@ -16,3 +16,25 @@ This includes only the window decorations (i.e., title bar and buttons).
 ## Attributions
 
 I learned a lot from [this Windows Classic theme](https://github.com/pixelocdguy/windows-classic).
+
+---
+
+```
+            ▄██▄
+            █▄▄█
+            █  █
+  ▄▄        █▀▀█        ▄▄
+  ▀▄▀▄  ▄▄▀▀████▀▀▄▄  ▄▀▄▀
+    ▀▄█▀  ▄██████▄  ▀█▄▀
+   ▄▀ █   ████████   █ ▀▄
+  ▄▀  █    ▀████▀    █  ▀▄
+▄█     ▀▄          ▄▀     █▄
+  ▀▄     ▀▀▄▄▄▄▄▄▀▀     ▄▀
+   ▀▄                  ▄▀
+    ▄▀▄▄            ▄▄▀▄
+  ▄▀▄▀  ▀▀▄▄▄▄▄▄▄▄▀▀  ▀▄▀▄
+  ▀▀        █▄▄█        ▀▀
+            █  █
+            █▀▀█
+            ▀██▀
+```
