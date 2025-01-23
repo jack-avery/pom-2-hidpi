@@ -10,7 +10,7 @@ This includes only the window decorations (i.e., title bar and buttons).
 
 1. Have KDE Plasma installed
 2. Clone sources: `git clone https://github.com/jack-avery/pom-2-hidpi`
-3. Copy the contents of this folder to `~/.local/share/aurorae/themes/pom-2-hidpi`
+3. Read, then run the install script: `./install.sh`
 4. Set your Window Decoration settings in KDE Plasma
 
 ## Attributions
